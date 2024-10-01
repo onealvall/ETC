@@ -20,7 +20,7 @@
                                 <img class="" src="<?php echo base_url() ?>assets/img/whoweare/3.png" alt="lion">
                             </div>
                             <div class="s-img-container circle shadow-lg blurred-background" data-accord="wwr-4">
-                                <img class="" src="<?php echo base_url() ?>assets/img/whoweare/4.jpg" alt="lion">
+                                <img class="" src="<?php echo base_url() ?>assets/img/whoweare/4.png" alt="lion">
                             </div>
                             <div class="s-img-container circle shadow-lg blurred-background" data-accord="wwr-5">
                                 <img class="" src="<?php echo base_url() ?>assets/img/whoweare/5.png" alt="lion">

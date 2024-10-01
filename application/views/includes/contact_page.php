@@ -58,12 +58,12 @@
                 <img class="social_icon ml-3 my-auto" src="<?php echo base_url() ?>/assets/img/contact/fb-icon.png" alt="..." /></a>
             <a href="https://www.linkedin.com/company/eteleconnect-inc-/?originalSubdomain=ph" target="_blank">
                 <img class="social_icon ml-3 my-auto" src="<?php echo base_url() ?>/assets/img/contact/li-icon.png" alt="..." /></a>
-            <a href="https://twitter.com/EtcPhilippines" target="_blank">
-                <img class="social_icon ml-3 my-auto" src="<?php echo base_url() ?>/assets/img/contact/twitter.png" alt="..." /></a>
+            <!-- <a href="https://twitter.com/EtcPhilippines" target="_blank">
+                <img class="social_icon ml-3 my-auto" src="<?php echo base_url() ?>/assets/img/contact/twitter.png" alt="..." /></a> -->
             <a href="https://www.instagram.com/eteleconnect/" target="_blank">
                 <img class="social_icon ml-3 my-auto" src="<?php echo base_url() ?>/assets/img/contact/Instagram.png" alt="..." /></a>
-            <a href="https://www.tiktok.com/@eteleconnect" target="_blank">
-                <img class="social_icon ml-3 my-auto" src="<?php echo base_url() ?>/assets/img/contact/tiktok.png" alt="..." /></a>
+            <!-- <a href="https://www.tiktok.com/@eteleconnect" target="_blank">
+                <img class="social_icon ml-3 my-auto" src="<?php echo base_url() ?>/assets/img/contact/tiktok.png" alt="..." /></a> -->
             <br><br>
 
         </div>

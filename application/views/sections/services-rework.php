@@ -204,7 +204,9 @@
                         </h2>
                         <div id="englishservice" class="accordion-collapse collapse"
                             aria-labelledby="englishservice-header" data-bs-parent="#OurServiceAccord2">
-                            <div class="accordion-body text-right">
+                            <div class="accordion-body">
+                                  Our dedicated Team of Accountants will help you focus on your day-to-day Operations to grow your 
+                                  business which will save you time and money of having to worry about your Accounting needs.
                                 <a style="color: blue;" target="_blank" href="https://accounting-websites.vercel.app">Learn More</a>
                             </div>
                         </div>

@@ -70,7 +70,7 @@
             <span >
                 <img class="contact-icon" src="<?php echo base_url() ?>/assets/img/contact/mail.png" alt="..." />
                 <h6 class="contact-subtext section-subheading text-white my-auto">Reach Us</h6>
-                <br><a href="https://mail.google.com/mail/?view=cm&fs=1&to=info@eteleconnectinc.com" target="_blank" class="text-white">info@eteleconnectinc.com</a>
+                <!-- <br><a href="https://mail.google.com/mail/?view=cm&fs=1&to=info@eteleconnectinc.com" target="_blank" class="text-white">info@eteleconnectinc.com</a> -->
             </span><br><br>
         </div>
 
@@ -79,7 +79,7 @@
             <span>
                     <img class="contact-icon" src="<?php echo base_url() ?>/assets/img/contact/hr.png" alt="..." />
                     <h6 class="contact-subtext section-subheading text-white my-auto">Human Resources</h6>
-                    <br><a href="https://mail.google.com/mail/?view=cm&fs=1&to=hrd@eteleconnectinc.com" target="_blank" class="text-white">hrd@eteleconnectinc.com</a>
+                    <br><a href="https://mail.google.com/mail/?view=cm&fs=1&to=hrd@eteleconnectinc.com" target="_blank" class="text-white">hr@e-teleconnectinc.com</a>
                 </span><br><br>
               
     
