@@ -1,0 +1,59 @@
+.bsubmit
+{
+width: 300px;
+height: 35px;
+background-color: #1976D2;
+font: 12pt arial;
+font-weight:bold;
+color: #FFF;
+border-radius: 5px;
+border: 0px;
+
+}
+.bsubmit:hover {
+width: 300px;
+height: 35px;
+background-color: #286090;
+font: 12pt arial;
+font-weight:bold;
+color: #FFF;
+border-radius: 5px;
+border: 0px;
+}
+.link a
+{
+font: 10pt arial;
+color: #000;
+text-decoration:none;
+border-radius: 2px;
+}
+.a:hover
+{
+background-color: #97241D;
+font: 10pt arial;
+color: #FFF;
+border-radius: 2px;
+border: 0px;
+text-decoration: none;
+text-align: right;
+}
+.xpformbtn
+{
+width: 90px;
+height: 25px;
+background-color: #629FE8;
+font: 10pt arial;
+color: #FFF;
+border-radius: 5px;
+border: 0px;
+}
+.xpformbtn:hover {
+width: 90px;
+height: 25px;
+background-color: #962723;
+font: 10pt arial;
+font-weight: bold;
+color: #FFF;
+border-radius: 5px;
+border: 0px;
+}

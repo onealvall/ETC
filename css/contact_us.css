@@ -1,0 +1,44 @@
+.banner_text{
+  font-family: var(--primary-font-family);
+  color: white;
+  
+}
+
+.banner{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* padding-top:20vh;  */
+  height:50vh;
+  /* max-height: 30vh; */
+  overflow: hidden;
+}
+.banner-background{
+  background-color: green;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position-y: center;
+  background-blend-mode: hard-light;
+  position: relative;
+  padding: 0px;
+  z-index: -1;
+}
+.contact-overlay{
+  background-color:#025F1D;
+  opacity: 0.78;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}
+.contact_container{
+  padding: 0 0 0 10vh;
+}
+.contact_form{
+  background-color: white;
+  margin-top: -10vh;
+  z-index: -1;
+  border-radius: 5px;
+  margin-bottom: 10vh;
+  font-family: var(--primary-font-family);
+}
