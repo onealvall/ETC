@@ -174,7 +174,7 @@
                         <div id="backservice" class="accordion-collapse collapse show"
                             aria-labelledby="backservice-header" data-bs-parent="#OurServiceAccord2">
                             <div class="accordion-body">
-                                <strong class="mb-4">We have experienced staff who can handle:</strong>
+                                <strong class="mb-4">We have a seasoned team of experts who can handle: </strong>
                                 <div class="row mt-2">
                                     <div class="col">
                                         <ul class="mb-0">

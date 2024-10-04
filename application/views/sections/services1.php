@@ -87,7 +87,7 @@
                             <div class="service-overlay">
                                 <div class="service-overlay-dialogue">
                                     <h1>BACK OFFICE SUPPORT</h1>
-                                    <p>We have experienced people who can handle:</p>
+                                    <p>We have a seasoned team of experts who can handle: </p>
                                         <ul>
                                             <li>Outsourced Account Management</li>
                                             <li>Data Processing</li>

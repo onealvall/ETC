@@ -41,13 +41,13 @@
                     </div>
                     <div class="col d-flex flex-column justify-content-center">
                         <p class="-0">
-                            <strong>Tel No:</strong> 6349.501.1210 loc. 117
+                            <strong>Tel No:</strong> 63 49 501 1210 ext 117
                         </p>
                         <!-- <p class="text-justify mb-0">
                             <strong>Tel No:</strong> 63.968.893.7999
                         </p> -->
                         <p class="mb-0">
-                            <strong>Tel No:</strong> 63.8829.0703 loc. 102
+                            <strong>Tel No:</strong> 63 2 8829 0703 ext 102
                         </p>
                     </div>
                 </div>

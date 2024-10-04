@@ -36,14 +36,14 @@
                                     <p class="mb-0">2nd Floor, Olivarez Plaza National Highway,</p>
                                     <p class="mb-0">Barangay Batong Malake</p>
                                     <p class="mb-0">Los Baños, Laguna</p>
-                                    <p class="mb-0">Tel. No: 6349.501.1210 loc. 117</p>
+                                    <p class="mb-0">Tel. No: 63 49 501 1210 ext 117</p>
                                 </div>
                                 <div class="col-12 my-auto mt-5">
                                     <p class="mb-0">2nd Floor, Olivarez Sports Center</p>
                                     <p class="mb-0">Dr. A. Santos Avenue, Sucat Road,</p>
                                     <p class="mb-0">Parañaque City, Philippines 1700</p>
                                     <!-- <p class="mb-0">Tel. No: 63.968.893.7999 or</p> -->
-                                    <p class="mb-0">63.8829.0703 loc. 102</p>
+                                    <p class="mb-0">63 2 8829 0703 ext 102</p>
                                 </div>
                             </div>
                         </div>

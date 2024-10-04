@@ -104,7 +104,7 @@
                             <img src="<?php echo base_url() ?>assets/img/our_services/BACK OFFICE.png">
                             <div class="bubble-overlay">
                                 <div class="bubble-description">
-                                    <h3 class="text-center">We have experienced staff who can handle</h3>
+                                    <h3 class="text-center">We have a seasoned team of experts who can handle: </h3>
                                     <ul>
                                         <li>Outsourced Account Management</li>
                                         <li>Data Processing</li>

@@ -40,7 +40,7 @@
                             National Highway, Barangay Batong Malake
                             Los Banos, Laguna
                        </div>
-                        <div>6349.501.1210 loc. 117</div>
+                        <div>63 49 501 1210 ext 117</div>
                       </div>
                 </div>
             </div>

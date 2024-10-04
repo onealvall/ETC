@@ -91,7 +91,7 @@
                         <div class="col-md-6" style="text-align: left;" >
                             <br><br><br><br>
                             <h4>BACK OFFICE SUPPORT</h4>
-                            <h4 class="subheading">We have experienced people who can handle</h4>
+                            <h4 class="subheading">We have a seasoned team of experts who can handle: </h4>
                             <h3 class="section-subheading text-muted">
                                 <ul stlye="text-align: left;">
                                     <li>Outsourced Account Management</li>

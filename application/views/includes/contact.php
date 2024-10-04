@@ -39,14 +39,14 @@
                     <p class="mb-0">2nd Floor, Olivarez Plaza National Highway,</p>
                     <p class="mb-0">Barangay Batong Malake</p>
                     <p class="mb-0">Los Baños, Laguna</p>
-                    <p class="mb-0">Tel. No: 6349.501.1210 loc. 117</p>
+                    <p class="mb-0">Tel. No: 63 49 501 1210 ext 117</p>
                 </div>
                 <div class="col-6 my-auto mt-5">
                     <p class="mb-0">2nd Floor, Olivarez Sports Center</p>
                     <p class="mb-0">Dr. A. Santos Avenue, Sucat Road,</p>
                     <p class="mb-0">Parañaque City, Philippines 1700</p>
                     <!-- <p class="mb-0">Tel. No: 63.968.893.7999 or</p> -->
-                    <p class="mb-0">63.8829.0703 loc. 102</p>
+                    <p class="mb-0">63 2 8829 0703 ext 102</p>
                 </div>
             </div>
         </div>
@@ -70,7 +70,7 @@
             <span >
                 <img class="contact-icon" src="<?php echo base_url() ?>/assets/img/contact/mail.png" alt="..." />
                 <h6 class="contact-subtext section-subheading text-white my-auto">Reach Us</h6>
-                <!-- <br><a href="https://mail.google.com/mail/?view=cm&fs=1&to=info@eteleconnectinc.com" target="_blank" class="text-white">info@eteleconnectinc.com</a> -->
+                <br><a href="https://mail.google.com/mail/?view=cm&fs=1&to=info@e-teleconnectinc.com" target="_blank" class="text-white">info@e-teleconnectinc.com</a>
             </span><br><br>
         </div>
 
@@ -79,7 +79,7 @@
             <span>
                     <img class="contact-icon" src="<?php echo base_url() ?>/assets/img/contact/hr.png" alt="..." />
                     <h6 class="contact-subtext section-subheading text-white my-auto">Human Resources</h6>
-                    <br><a href="https://mail.google.com/mail/?view=cm&fs=1&to=hrd@eteleconnectinc.com" target="_blank" class="text-white">hr@e-teleconnectinc.com</a>
+                    <br><a href="https://mail.google.com/mail/?view=cm&fs=1&to=hrd@e-teleconnectinc.com" target="_blank" class="text-white">hr@e-teleconnectinc.com</a>
                 </span><br><br>
               
     
@@ -90,7 +90,7 @@
              <span>
              <img class="contact-icon" src="<?php echo base_url() ?>/assets/img/contact/recruit.png" alt="..." />
                 <h6 class="contact-subtext section-subheading text-white my-auto">Recruitment</h6>
-                <br><a href="https://mail.google.com/mail/?view=cm&fs=1&to=recruitment@eteleconnectinc.com" target="_blank" class="text-white">recruitment@eteleconnectinc.com</a>
+                <br><a href="https://mail.google.com/mail/?view=cm&fs=1&to=recruitment@e-teleconnectinc.com" target="_blank" class="text-white">recruitment@e-teleconnectinc.com</a>
             </span><br><br>
 
         </div>
@@ -103,7 +103,7 @@
 
   <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
     © 2022 Copyright:
-    <a class="text-white" href="https://mdbootstrap.com/">E-teleconnect.com</a>
+    <a class="text-white" href="https://mdbootstrap.com/"> E-Teleconnectinc.com</a>
   </div>
 
 </footer>
