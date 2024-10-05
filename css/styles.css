@@ -11186,16 +11186,7 @@ p {
   border-color: white;
 }
 #mainNav .navbar-brand {
-  color: #ffc800;
-  font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  font-weight: 700;
-  letter-spacing: 0.0625em;
-  text-transform: uppercase;
-  background-color: rgba(255,255,255,1);
-  border-radius: 50%;
-  box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 15%);
-  transition: all;
-  position: relative;
+  color: black;
 }
 .navbar-brand img {
   width: 75px; 
