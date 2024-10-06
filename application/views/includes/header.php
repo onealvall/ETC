@@ -41,13 +41,13 @@
        
     </head>
     <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-YY4B1SETN3"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id="></script>
     <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
 
-    gtag('config', 'G-YY4B1SETN3');
+    gtag('config', '');
     </script>
     <body id="page-top">
         

@@ -1,4 +1,4 @@
-<section class="page-section vertical-center-content no-bg-color text-white" id="trusted">
+<section class="page-section  no-bg-color text-white" id="trusted">
     <div class="parallax" style="background-image: url('assets/img/about_us/bg_3.png');"></div>
     <div class="container-fluid content-above">
         <div class="row align-items-center justify-content-center">

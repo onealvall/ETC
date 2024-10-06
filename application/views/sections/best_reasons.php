@@ -1,4 +1,4 @@
-<section class="page-section vertical-center-content no-bg-color text-white" id="careers" style="height: 100vh;">
+<section class="page-section  no-bg-color text-white" id="careers" style="min-height: 100vh">
     <div class="parallax" style="background-image: url('assets/img/about_us/bg_3.png');"></div>
        <div class="row">
             <div class="col-md-12">

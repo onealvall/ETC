@@ -20,8 +20,8 @@ class Home extends CI_Controller
 		$this->load->view('sections/personal_account_services');
 		$this->load->view('sections/confidental_data');
 		$this->load->view('sections/accelarated_growth_low_costs');
-		$this->load->view('sections/best_reasons');
-		$this->load->view('sections/expand_your_next');
+		// $this->load->view('sections/best_reasons');
+		// $this->load->view('sections/expand_your_next');
 		$this->load->view('sections/contact');
 		$this->load->view('includes/contact');
 	}
