@@ -17,6 +17,7 @@ class Home extends CI_Controller
 		$this->load->view('sections/front');
 		$this->load->view('sections/we_have_trusted');
 		$this->load->view('sections/about_us');
+		$this->load->view('sections/personal_account_services');
 		$this->load->view('sections/expand_your_next');
 		$this->load->view('sections/contact');
 		$this->load->view('includes/contact');
