@@ -12763,12 +12763,24 @@ section#contact form#contactForm :-ms-input-placeholder {
   color: #194901;
 }
 
+.red-font{
+  color: #FF0000;
+}
+
 .purple-font{
   color: #2d2657;
 }
 
 .text-shadow{
   text-shadow: rgb(5, 5, 5) 4px 4px 4px;
+}
+
+.form-container {
+  background-color: rgba(0, 0, 0, 0.7);
+  padding: 40px;
+  border-radius: 10px;
+  width: 400px;
+  color: white;
 }
 
 @media (max-width: 768px) {
@@ -12787,5 +12799,7 @@ section#contact form#contactForm :-ms-input-placeholder {
   .circle-video video{
     transform: scale(1.5) translate(-2rem, 2rem);
   }
+
+  
 
 }
